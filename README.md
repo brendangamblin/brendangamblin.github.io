@@ -1,5 +1,5 @@
 # brendangamblin.github.io
-# 👋 Hi, I'm \[YOUR NAME]
+# 👋 Hi, I'm **Brendan Gamblin**
 
 Aspiring **IT Support Specialist** with a passion for troubleshooting, system administration, and customer-focused solutions.
 This portfolio highlights the **home lab projects** I’ve completed to build real-world IT skills in Windows, Linux, networking, and IT support.
