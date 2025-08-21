@@ -1,1 +1,71 @@
 # brendangamblin.github.io
+# 👋 Hi, I'm \[YOUR NAME]
+
+Aspiring **IT Support Specialist** with a passion for troubleshooting, system administration, and customer-focused solutions.
+This portfolio highlights the **home lab projects** I’ve completed to build real-world IT skills in Windows, Linux, networking, and IT support.
+
+---
+
+## 🖥️ Featured Projects
+
+### 🔹 1. \[PROJECT TITLE]
+
+* **Overview:** \[Brief description of what the project is about.]
+* **Skills Practiced:** \[List of technical skills you used or learned.]
+* **Highlights:**
+
+  * \[Key accomplishment or task you completed.]
+  * \[Another highlight or problem you solved.]
+  * \[One more that shows value or troubleshooting ability.]
+* 📄 [Read More](./[FOLDER-NAME]/README.md)
+
+---
+
+### 🔹 2. \[PROJECT TITLE]
+
+* **Overview:** \[Brief description of the project.]
+* **Skills Practiced:** \[List of technical skills.]
+* **Highlights:**
+
+  * \[Highlight 1]
+  * \[Highlight 2]
+  * \[Highlight 3]
+* 📄 [Read More](./[FOLDER-NAME]/README.md)
+
+---
+
+### 🔹 3. \[PROJECT TITLE]
+
+* **Overview:** \[Short description.]
+* **Skills Practiced:** \[Skills used/learned.]
+* **Highlights:**
+
+  * \[Highlight 1]
+  * \[Highlight 2]
+  * \[Highlight 3]
+* 📄 [Read More](./[FOLDER-NAME]/README.md)
+
+---
+
+## 📂 Project Directory
+
+* [PROJECT TITLE](./[FOLDER-NAME]/README.md)
+* [PROJECT TITLE](./[FOLDER-NAME]/README.md)
+* [PROJECT TITLE](./[FOLDER-NAME]/README.md)
+
+---
+
+## 🛠️ Technical Skills
+
+* **Operating Systems:** \[Windows, Linux, macOS, etc.]
+* **Networking:** \[DHCP, DNS, IP addressing, Firewalls, etc.]
+* **Support Tools:** \[VirtualBox, Remote Desktop, Ticketing Simulation, etc.]
+* **Scripting & Tools:** \[PowerShell, Bash, GitHub, etc.]
+
+---
+
+## 📫 Connect with Me
+
+* **LinkedIn:** \[Your LinkedIn URL]
+* **Email:** \[Your professional email]
+* **GitHub:** \[Your GitHub profile link]
