@@ -66,6 +66,6 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** \(https://www.linkedin.com/in/brendangamblin/)
-* **Email:** \brendanjgamblin@gmail.com
+* **LinkedIn:** linkedin.com/in/brendangamblin/)
+* **Email:** brendanjgamblin@gmail.com
 * **GitHub:** \[Your GitHub profile link]
