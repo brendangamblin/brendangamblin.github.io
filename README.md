@@ -17,7 +17,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
   * \[Key accomplishment or task you completed.]
   * \[Another highlight or problem you solved.]
   * \[One more that shows value or troubleshooting ability.]
-* 📄 [Read More](./[FOLDER-NAME]/README.md)
+* 📄 [Read More](./[Windows-Active-Directory]/README.md)
 
 ---
 
@@ -58,9 +58,9 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 ## 🛠️ Technical Skills
 
 * **Operating Systems:** Windows, Linux, and macOS
-* **Networking:** \[DHCP, DNS, IP addressing, Firewalls, etc.]
-* **Support Tools:** \[VirtualBox, Remote Desktop, Ticketing Simulation, etc.]
-* **Scripting & Tools:** \[PowerShell, Bash, GitHub, etc.]
+* **Networking:** DHCP, DNS, IP addressing, Firewalls, etc
+* **Support Tools:** VMware, Active Directory, Ticketing Simulation, etc.
+* **Scripting & Tools:** \[PowerShell, GitHub, etc.]
 
 ---
 
