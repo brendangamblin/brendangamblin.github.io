@@ -8,7 +8,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 
 ## 🖥️ Featured Projects
 
-### 🔹 1. \[PROJECT TITLE]
+### 🔹 1. Windows Active Directory
 
 * **Overview:** \[Brief description of what the project is about.]
 * **Skills Practiced:** \[List of technical skills you used or learned.]
@@ -57,7 +57,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 
 ## 🛠️ Technical Skills
 
-* **Operating Systems:** \[Windows, Linux, macOS, etc.]
+* **Operating Systems:** Windows, Linux, and macOS
 * **Networking:** \[DHCP, DNS, IP addressing, Firewalls, etc.]
 * **Support Tools:** \[VirtualBox, Remote Desktop, Ticketing Simulation, etc.]
 * **Scripting & Tools:** \[PowerShell, Bash, GitHub, etc.]
