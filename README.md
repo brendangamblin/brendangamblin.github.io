@@ -10,8 +10,8 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 
 ### 🔹 1. Windows Active Directory
 
-* **Overview:** \[Brief description of what the project is about.]
-* **Skills Practiced:** \[List of technical skills you used or learned.]
+* **Overview:** Created Active Directory domain in a Windows Server 2022 environment.
+* **Skills Practiced:** Domain management, DNS Proxy,
 * **Highlights:**
 
   * \[Key accomplishment or task you completed.]
