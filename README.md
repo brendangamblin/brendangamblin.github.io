@@ -21,7 +21,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 
 ---
 
-### 🔹 2. \[PROJECT TITLE]
+### 🔹 2. Microsoft Exchange
 
 * **Overview:** \[Brief description of the project.]
 * **Skills Practiced:** \[List of technical skills.]
@@ -34,7 +34,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 
 ---
 
-### 🔹 3. \[PROJECT TITLE]
+### 🔹 3. Containerization
 
 * **Overview:** \[Short description.]
 * **Skills Practiced:** \[Skills used/learned.]
