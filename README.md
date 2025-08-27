@@ -17,7 +17,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
   * \[Key accomplishment or task you completed.]
   * \[Another highlight or problem you solved.]
   * \[One more that shows value or troubleshooting ability.]
-* 📄 [Read More](Windows-Active-Directory]/README.md)
+* 📄 [Read More](Windows-Active-Directory/README.md)
 
 ---
 
