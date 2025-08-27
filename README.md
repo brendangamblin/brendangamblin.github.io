@@ -30,7 +30,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
   * \[Highlight 1]
   * \[Highlight 2]
   * \[Highlight 3]
-* 📄 [Read More](./[FOLDER-NAME]/README.md)
+* 📄 [Read More](./[Microsoft-Exchange]/README.md)
 
 ---
 
@@ -43,15 +43,15 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
   * \[Highlight 1]
   * \[Highlight 2]
   * \[Highlight 3]
-* 📄 [Read More](./[FOLDER-NAME]/README.md)
+* 📄 [Read More](./[Containerization]/README.md)
 
 ---
 
 ## 📂 Project Directory
 
-* [PROJECT TITLE](./[FOLDER-NAME]/README.md)
-* [PROJECT TITLE](./[FOLDER-NAME]/README.md)
-* [PROJECT TITLE](./[FOLDER-NAME]/README.md)
+* [Windows Active Directory](./[Windows-Active-Directory]/README.md)
+* [Microsoft Exchange](./[Microsoft-Exchange]/README.md)
+* [Containerization](Containerization]/README.md)
 
 ---
 
