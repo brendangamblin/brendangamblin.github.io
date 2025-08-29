@@ -19,9 +19,15 @@
 ---
 
 ## ⚙️ Steps & Implementation
-**Step 1:** Install AD DS and DNS Roles(/screenshots/1 - Install AD DS and DNS Roles.JPG)
+**Step 1:** Install AD DS and DNS Roles 
+![Install AD DS and DNS Roles](./screenshots/1-Install-AD-DS-DNS-Roles.png)
+
 **Step 2:** Configure DNS for for AD DS
+![AD Users](./screenshots/ad-users.png)
+
 **Step 2.1:** Create a Foward Lookup Zone
+![AD Users](./screenshots/ad-users.png)
+
 **Step 2.2:** Create a Reverse Lookup Zone
 **Step 2.3:** Configure Fowarder
 **Step 2.4:** Configure DNS Interfaces
