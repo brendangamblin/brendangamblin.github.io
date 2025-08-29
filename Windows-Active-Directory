@@ -6,16 +6,15 @@
 ---
 
 ## 🛠️ Lab Setup
-- **Tools/Software Used:** Windows Server 2022, Proxmox, and Server Manager
-- **Environment:** 1 VM acting as the Domain Controller
-- **Configuration Notes:** [Any special setup details worth mentioning]
+- Tools/Software Used: Windows Server 2022, Proxmox, and Server Manager
+- Environment: 1 VM acting as the Domain Controller
 
 ---
 
 ## 🔎 Objectives
-- [Objective 1: What problem or task did you want to practice?]
-- [Objective 2: Another skill you wanted to test.]
-- [Objective 3: End goal of the project.]
+- To configure a AD Domain so I can connect my other Windows VM's for easier management.
+- To practive working in a Windows Server environment
+- To simulate an business environment to practice troubleshooting user support tickets.
 
 ---
 
