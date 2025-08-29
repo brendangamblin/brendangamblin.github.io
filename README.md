@@ -49,7 +49,7 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 
 ## 📂 Project Directory
 
-* [Windows Active Directory](./[Windows-Active-Directory]/README.md)
+* [Windows Active Directory](Windows-Active-Directory)
 * [Microsoft Exchange](./[Microsoft-Exchange]/README.md)
 * [Containerization](Containerization]/README.md)
 
