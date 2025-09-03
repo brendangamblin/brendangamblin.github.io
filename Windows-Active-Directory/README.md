@@ -1,19 +1,19 @@
 # Windows Active Directory
 
 ## 📌 Overview
-[Write a 2–3 sentence summary of what the project is about, why you did it, and what skills it demonstrates.]
+Built and Configured a Windows Active Directory domain on Windows Server 2022 to improve centralized management and DNS configuration in my homelab. This project sharpened my skills in setting up core services like AD DS and DNS, and prepared me for real-world IT support tasks involving user and network administration.
 
 ---
 
 ## 🛠️ Lab Setup
-- Tools/Software Used: Windows Server 2022, Proxmox, and Server Manager
-- Environment: 1 VM acting as the Domain Controller
+- Tools/Software Used: Windows Server 2022, Powershell, Proxmox, DNS Manager, and Server Manager
+- Environment: 1 VM acting as the Domain Controller on Windows Server 2022
 
 ---
 
 ## 🔎 Objectives
-- To configure a AD Domain so I can connect my other Windows VM's for easier management.
-- To practive working in a Windows Server environment
+- To configure a AD Domain so I can connect my other Windows VM's for improved management.
+- To practice working in a Windows Server environment
 - To simulate an business environment to practice troubleshooting user support tickets.
 
 ---
@@ -67,17 +67,17 @@
 ---
 
 ## 🐞 Troubleshooting & Issues
-- **Issue:** [Describe a problem you ran into, e.g., client could not join domain]  
-- **Diagnosis:** [How you investigated, e.g., checked DNS settings, reviewed event logs]  
-- **Solution:** [What you did to fix it, e.g., corrected DNS forwarder]  
+- **Issue:** The command to install the Active Directory Domain Service and DNS Roles was not recognized and would not execute. "Install-WindowsFeature -Name AD-Domain-Services, DNS -IncludeManagementTools"
+- **Diagnosis:** I researched and confirmed that the command is correct and should work to install these services.
+- **Solution:** I executed the command to install AD DS with management tools first, then installed the DNS with management tools.
 
 
 
 ---
 
 ## ✅ Key Takeaways
-- [What did you learn from this project?]
-- [How does this skill connect to IT support tasks?]
-- [Anything you’d do differently next time?]
+- Gained hands-on experience setting up a Windows Server as a Domain Controller
+- Strengthened skills in documentation by recording setup steps, screenshots, and solutions.
+- Built a realistic IT Lab environment that mirrors enterprise support tasks, preparing me for an entry level IT role.
 
 ---
