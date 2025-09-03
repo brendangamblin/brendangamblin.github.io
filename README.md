@@ -11,12 +11,12 @@ This portfolio highlights the **home lab projects** I’ve completed to build re
 ### 🔹 1. Windows Active Directory
 
 * **Overview:** Configured Active Directory domain in a Windows Server 2022 environment.
-* **Skills Practiced:** Domain management, DNS Foward & Reverse Lookups, and Host A Records
+* **Skills Practiced:** Active Directory Administration, Windows Server Management, Networking & Infrastructure, Troubleshooting & Support, and Scripting.
 * **Highlights:**
 
-  * \[Key accomplishment or task you completed.]
-  * \[Another highlight or problem you solved.]
-  * \[One more that shows value or troubleshooting ability.]
+  * Built a Windows Server 2022 Domain Controller to practice centralized user and group management.
+  * Configured DNS and DHCP to support domain authentication and network connectivity.
+  * Documented the entire lab with screenshots and step by step notes.
 * 📄 [Read More](Windows-Active-Directory)
 
 ---
