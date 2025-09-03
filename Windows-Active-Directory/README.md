@@ -1,7 +1,7 @@
 # Windows Active Directory
 
 ## 📌 Overview
-Built and Configured a Windows Active Directory domain on Windows Server 2022 to improve centralized management and DNS configuration in my homelab. This project sharpened my skills in setting up core services like AD DS and DNS, and prepared me for real-world IT support tasks involving user and network administration.
+Built and configured a Windows Active Directory domain on Windows Server 2022 to improve centralized management and DNS configuration in my homelab. This project sharpened my skills in setting up core services like AD DS and DNS, and prepared me for real-world IT support tasks involving user and network administration.
 
 ---
 
